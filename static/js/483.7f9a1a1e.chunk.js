@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktabs_test_task=self.webpackChunktabs_test_task||[]).push([[483],{483:(s,t,e)=>{e.r(t),e.d(t,{default:()=>a});const a={}}}]);
+//# sourceMappingURL=483.7f9a1a1e.chunk.js.map

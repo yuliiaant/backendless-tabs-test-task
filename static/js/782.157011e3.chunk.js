@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktabs_test_task=self.webpackChunktabs_test_task||[]).push([[782,483],{782:(s,t,e)=>{e.r(t),e.d(t,{default:()=>c});e(483);var a=e(184);const c=()=>(0,a.jsx)("table",{className:"tabs__content",children:(0,a.jsxs)("tr",{children:[(0,a.jsx)("td",{children:"Dummy"}),(0,a.jsx)("td",{children:"Table"})]})})},483:(s,t,e)=>{e.r(t),e.d(t,{default:()=>a});const a={}}}]);
+//# sourceMappingURL=782.157011e3.chunk.js.map

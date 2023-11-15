@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktabs_test_task=self.webpackChunktabs_test_task||[]).push([[878,483],{878:(t,s,a)=>{a.r(s),a.d(s,{default:()=>n});a(483);var e=a(184);const n=()=>(0,e.jsx)("div",{className:"tabs__content",children:"Chart Content"})},483:(t,s,a)=>{a.r(s),a.d(s,{default:()=>e});const e={}}}]);
+//# sourceMappingURL=878.95adbc6e.chunk.js.map
