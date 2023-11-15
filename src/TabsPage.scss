@@ -1,0 +1,48 @@
+@mixin hover($property, $toValue) {
+  transition: #{$property} 0.3s;
+
+  &:hover {
+    #{$property}: $toValue;
+  }
+}
+
+.table {
+  &__list {
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin-bottom: 0;
+    column-gap: 40px;
+    list-style: none;
+  }
+
+  &__item {
+    display: block;
+    width: 120px;
+    height: 50px;
+    line-height: 50px;
+    background-color: #dddbdb;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+    @include hover(background-color, #e8e8e8);
+
+    &--active {
+      background-color: #fff;
+    }
+  }
+
+  &__link {
+    display: block;
+    text-decoration: none;
+    color: black;
+  }
+
+  &__content {
+    display: flex;
+    height: 100vh;
+    padding: 10px;
+    background-color: #fff;
+    color: #828282;
+  }
+}
